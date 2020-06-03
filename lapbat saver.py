@@ -9,7 +9,8 @@ def notify():
     notification.notify(
         title='Hey!, Unplug your Charger!',
         message='Your battery is already charged',
-        app_icon=r"C:\Users\gkush\Downloads\c.ico",
+        app_name='Gaurav'
+        app_icon=None,
         timeout=10,
     )
 
