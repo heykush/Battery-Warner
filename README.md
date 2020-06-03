@@ -42,4 +42,4 @@ Gaurav Kushwaha - [@ravvkush](https://instagram/ravvkush) - gkush10000@gmail.com
 ## License & Copyright
 © [Gaurav kushwaha](https://heykush.github.io/)
 
-Licensed under the [MIT License](License)
+Licensed under the [BSD-3-Clause](License)
