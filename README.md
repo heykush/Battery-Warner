@@ -20,7 +20,7 @@ pyinstaller --hidden-import plyer.platforms.win.notification -F -w -i "give imag
 ***Your image should be in .ico format.*** **[Convert](https://image.online-convert.com/convert-to-ico) Jpeg, png to icon.**
 <!-- USAGE EXAMPLES -->
 ## Usage
-You can use this as script or run as .exe in your window. You can **customized** the **Level of Charging percentage** , Your **willing price and Time gap between every notification.**
+You can use this as script or run as .exe in your window. You can **customized** the **Level of Charging percentage** , Your **can give Time gap between every notification.**
 
 
 
