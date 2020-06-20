@@ -9,7 +9,7 @@ def notify():
     notification.notify(
         title='Hey!, Unplug your Charger!',
         message='Your battery is already charged',
-        app_name='Gaurav'
+        app_name='Gaurav',
         app_icon=None,
         timeout=10,
     )
